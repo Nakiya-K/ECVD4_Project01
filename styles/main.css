@@ -46,3 +46,27 @@ section{
    position: relative;
    margin-top: 7em;
  }
+
+ @media only screen and (min-width: 400px)
+   {.nastyadvert
+         background-image: url('moonassi.jpg');
+       }
+
+.nastyadvert h1{
+  font-size: 2em;
+ font-family: 'Poiret One', cursive;
+  color: #FFFFFF;
+  text-align: right;
+  text-shadow: 1px 1px 2px black;
+  margin-left: 50px;
+
+}
+.nastyadvert h2{
+  font-size: 1em;
+ font-family: 'Poiret One', cursive;
+  color: #FFFFFF;
+  text-align: right;
+  text-shadow: 1px 1px 2px black;
+  margin-left: 50px;
+
+}
