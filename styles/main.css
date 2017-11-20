@@ -95,3 +95,17 @@ font-family: 'Poiret One', cursive;
   transform: translateY(-50%) translateX(29%);
 
 }
+
+
+ @media (max-width: 1095px){.nastyadvert .container
+   margin-top: 0;
+   font-size: 3.998em;
+ }
+
+footer{
+  background-color: #A9B6DB;
+  color: #dddddd;
+  padding: 0.7em;
+  margin-bottom: 1px;
+  margin-top: 100px;
+}
