@@ -1,0 +1,26 @@
+body{
+  background-color: #FFFBFA;
+  margin:0;
+
+}
+
+
+
+
+
+
+section{
+  max-width: 35em;
+  margin: 0 auto;
+  padding-top: 70px;
+}
+
+
+
+ header{
+   background-color: #A9B6DB;
+   color:#dddddd;
+   padding: 2em;
+   position: relative;
+
+ }
