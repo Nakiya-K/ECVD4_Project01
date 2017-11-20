@@ -70,3 +70,28 @@ section{
   margin-left: 50px;
 
 }
+
+.nastyadvert a{
+  color:#F2E16F;
+}
+
+.nastyadvert p{
+  font-size: 2em;
+font-family: 'Poiret One', cursive;
+  text-align: right;
+   color: #FFFFFF;
+    margin-top:2px;
+
+}
+
+
+
+.nastyadvert .container{
+  font-size: 2em;
+ font-family: 'Poiret One', cursive;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) translateX(29%);
+
+}
