@@ -1,6 +1,6 @@
 h1{
   font-size: 3.9em;
-  font-family: 'PT Sans', sans-serif;
+font-family: 'Titillium Web', sans-serif;
   text-align: center;
   color: #FFFFFF;
 
@@ -8,15 +8,18 @@ h1{
 
 
 p {margin-bottom: 1.3em;
-  font-family: 'Oswald', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+  font-weight:normal;
   margin-top: 2em;
   font-size: 1.2em;
-  color: #032687
+  color: #032687;
+  text-align: justify;
+
 }
  h6{
    margin-bottom: 1em;
-     font-family: 'Oswald', sans-serif;
-     margin-top: 0em;
+  font-family: 'Titillium Web', sans-serif;
+    margin-top: 0em;
      font-size: 1em;
      color: #032687;
      text-align: center;
@@ -52,5 +55,6 @@ small, .font_small {font-size: 0.707em;}
 
 .linklist li{
   font-size: 1.1em;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+
 }
