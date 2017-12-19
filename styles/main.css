@@ -17,10 +17,6 @@ body{
     font-family: 'Titillium Web', sans-serif;
     font-weight: normal;
     font-size: 20px;
-    transition: 0.1s;
-    transition-timing-function: ease-in-out;
-
-
 }
 
 
@@ -36,7 +32,7 @@ body{
 section{
   max-width: 35em;
   margin: 0 auto;
-  padding-top: 70px;
+
 }
 
 
@@ -101,28 +97,9 @@ section{
   color:#F2E16F;
 }
 
-.nastyadvert p{
-  font-size: 1.6em;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: lighter;
-  text-align: right;
-   color: #FFFFFF;
-    margin-top:2px;
-
-}
 
 
 
-.nastyadvert .container{
-  font-size: 1.6em;
-  font-family: 'Quicksand', sans-serif;
-  font-weight: bold;
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%) translateX(80%);
-
-}
 
 
  @media (max-width: 1095px){.nastyadvert .container
@@ -155,6 +132,7 @@ footer{
 font-size: 20px;
 font-family: 'Titillium Web', sans-serif;
 font-weight: lighter;
+text-decoration: none;
 }
 
 
@@ -190,4 +168,10 @@ filter: hue-rotate(120deg);
 .mywork img:hover {
 filter: hue-rotate(0deg);
 -webkit-filter: hue-rotate(0deg);
+}
+
+.fleur img{
+  width: 100%;
+  margin-top: 82px;
+
 }

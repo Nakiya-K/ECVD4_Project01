@@ -19,6 +19,7 @@ font-family: 'Titillium Web', sans-serif;
  h6{
    margin-bottom: 1em;
   font-family: 'Titillium Web', sans-serif;
+  font-weight:normal;
     margin-top: 0em;
      font-size: 1em;
      color: #032687;
@@ -31,6 +32,7 @@ font-family: 'Titillium Web', sans-serif;
   line-height: 1.2;
   font-family: 'Pacifico', cursive;
   color: #7EA0FC;
+  text-align: center;
 }
 
 @media (max-width: 1095px){h1
